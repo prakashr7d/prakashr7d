@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50;Love+Creating+CLI"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Applied Research Intern at Neuralspace pursuing MSc in Artificial Intelligence and Machine Learning. I like to Code, Reasearch and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Machine Learning Research Scientist at Puretalk.ai pursuing MSc in Artificial Intelligence and Machine Learning. I like to Code, Reasearch and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prakashr7d&label=Profile%20views&color=0e75b6&style=plastic" alt="prakashr7d" /> </p>
 
