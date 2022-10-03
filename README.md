@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prakashr7d&label=Profile%20views&color=0e75b6&style=plastic" alt="prakashr7d" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashr7d&theme=algolia" alt="prakashr7d"  /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prakashr7d&theme=blux)](https://git.io/streak-stats)
 
 
 ## 🛠️ My Skills
